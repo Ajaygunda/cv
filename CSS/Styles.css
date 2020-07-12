@@ -85,7 +85,7 @@ h3 {
   margin-bottom: 0px;
   background-color: #00a8cc;
   position: relative;
-  padding: 20px;height: 300px;
+  padding: 20px;height: 150px;
 }
 .png-helloworld{
   position: relative;
@@ -102,8 +102,10 @@ h3 {
 }
 .developer-gif {
   position: absolute;
-  top: 100px;
-  left: 500px;
+  text-align: center;
+  top: 120px;
+  left: 550px;
+  width: 100px;
 }
 
 .png-lovecoding{
