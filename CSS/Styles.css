@@ -1,0 +1,184 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+}
+h1 {
+  margin-top: 0px;
+  font-size: 5.625rem;
+  font-family: "Yellowtail", cursive;
+  margin-bottom: 0px;
+  color: #e7d256;
+}
+.developer-gif {
+  margin-top: 0px;
+  position: absolute;
+  bottom: 250px;
+  left: 700px;
+}
+.welcome-note{
+  margin-top: 0px;
+  font-size: 2rem;
+  color: #11999e;
+}
+.my-description {
+  margin-bottom: 60px;
+  line-height: 2;
+  
+}
+hr {
+  margin-top: 20px;
+  border-style: dotted none none none;
+  border-top-width: 5px;
+  color: darkslategray;
+  padding: 0px;
+  width: 30px;
+}
+.getintouch-head {
+  margin-top: 40px;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #dd2c00;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+.top-container {
+  margin-bottom: 0px;
+  background-color: #00a8cc;
+  position: relative;
+  padding: 20px;
+}
+.profile-container {
+  margin-bottom: 0px;
+  background-color: #ffffff;
+  position: relative;
+  padding: 20px;
+}
+.skills-container {
+  margin-bottom: 0px;
+
+  position: relative;
+  padding: 10px;
+}
+.profile-picture {
+  width: 170px;
+  height: 170px;
+}
+.img-web {
+  width: 170px;
+  height: 170px;
+  float: left;
+  margin-right: 30px;
+}
+.img-JS {
+  width: 170px;
+  height: 170px;
+  float: right;
+  margin-left: 30px;
+}
+.img-Photo {
+  width: 170px;
+  height: 170px;
+  float: left;
+  margin-right: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 40px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  right: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.footer-link {
+  color: #11999e;
+}
+.bottom-container {
+  height: 100px;
+  margin-top: 30px;
+  background-color: #66bfbf;
+  position: relative;
+}
+.linkedin-link {
+  margin-top: 20px;
+  position: absolute;
+  left: 570px;
+  color: #06484b;
+  padding-left: 50px;
+  text-decoration: none;
+}
+.linkedin-link:hover {
+  color: orange;
+}
+.twitter-link {
+  margin-top: 20px;
+  position: absolute;
+  left: 670px;
+  color: #06484b;
+  padding-left: 30px;
+  text-decoration: none;
+}
+.twitter-link:hover {
+  color: orange;
+}
+.end-title {
+  position: absolute;
+  margin-top: 60px;
+  left: 570px;
+  padding-left: 40px;
+  color: #eaf6f6;
+}
+.contactme-btn {
+  background: #3d94f6;
+  background-image: -webkit-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -moz-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -ms-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -o-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: linear-gradient(to bottom, #3d94f6, #1e62d0);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 100;
+  padding: 13px;
+  box-shadow: 1px 1px 20px 0px #000000;
+  -webkit-box-shadow: 1px 1px 20px 0px #000000;
+  -moz-box-shadow: 1px 1px 20px 0px #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337fed 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  
+
+}
+
+.contactme-btn:hover {
+  border: solid #337fed 1px;
+  background: #1e62d0;
+  background-image: -webkit-linear-gradient(top, #1e62d0, #3d94f6);
+  background-image: -moz-linear-gradient(top, #1e62d0, #3d94f6);
+  background-image: -ms-linear-gradient(top, #1e62d0, #3d94f6);
+  background-image: -o-linear-gradient(top, #1e62d0, #3d94f6);
+  background-image: linear-gradient(to bottom, #1e62d0, #3d94f6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
